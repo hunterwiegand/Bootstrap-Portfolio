@@ -1,0 +1,38 @@
+.nav-color-custom {
+    background-color: #4aaaa5;
+    color: #fff;
+}
+
+body {
+    background-image: url("../assets/pictures/white-waves.png")
+}
+
+.theme-color-custom {
+    color: #4aaaa5;
+}
+
+.bio-pic-size {
+    width: 100%;
+}
+
+.sm-pic-size {
+    width:100%;
+    height: 100%;
+}
+
+.label {
+    color: #fff;
+    width: 100%;
+    position: absolute;
+    background-color: #4aaaa5;
+    bottom: 15px;
+    padding: 5px;
+}
+
+.theme-border-color-custom {
+    border-color: #4aaaa5;
+}
+
+.theme-background-color-custom {
+    background-color: #4aaaa5;
+}
